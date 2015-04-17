@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+datascience_tools.egg-info/PKG-INFO
+datascience_tools.egg-info/SOURCES.txt
+datascience_tools.egg-info/dependency_links.txt
+datascience_tools.egg-info/pbr.json
+datascience_tools.egg-info/requires.txt
+datascience_tools.egg-info/top_level.txt
