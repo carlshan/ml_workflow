@@ -1,12 +1,12 @@
-Change
+Changes
 =======
 
 0.0.2 Release
-______________
+----------
 * Changing __init__ files so that importing submodules also import relevant functions
 
 0.0.1 Release
---------------
+----------
 * Initial release. 
 * Not cleaned up.
 
