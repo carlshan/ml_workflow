@@ -10,5 +10,5 @@ setup(
     license='MIT',
     install_requires=['numpy==1.9.1',
                       'scikit-learn==0.15.2',
-                      'scipy==0.14.0']
+                      'scipy==1.10.0']
     )
